@@ -69,6 +69,6 @@ As you update your app, keep the following questions in mind:
 1. Use the Bootstrap 3 grid system examples to update your index.html file so your website is mobile-responsive. Use the DevTools to test the responsiveness of your website.
 
     *  Click on the Toggle Device Toolbar icon to open the UI that enables you to simulate responsiveness.
-    *  Choose a device to test your webpage, as shown in the following image:
+    *  Choose a device to test your webpage.
 
 2.  Add two other Bootstrap 3 components.
